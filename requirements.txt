@@ -1,0 +1,6 @@
+gspread
+oauth2client
+requests
+feedparser
+python-dateutil
+beautifulsoup4

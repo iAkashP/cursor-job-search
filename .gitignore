@@ -1,0 +1,8 @@
+state.json
+creds.json
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.env
+
